@@ -1,13 +1,12 @@
 superhero = {
-    "name": "Wonder Woman",
-    "alias": "Diana Prince",
+    "name": "Batman",
+    "alias": "Bruce wayne",
     "gear": [
-        "Lasso of Truth",
-        "Bracelets of Submission"
+        "Batbelt"
     ],
     "vehicle": {
-        "title": "Invisible Jet",
-        "speed": "2000 mph",
+        "title": "Batmobile",
+        "speed": "Fast mph",
     }
 }
 
