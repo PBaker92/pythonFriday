@@ -92,8 +92,7 @@ while True:
             print(hotel3)
         if selected_hotel == "all":
             print(hotels)
-    #     if menu_sel == 3:
-    #         print()
+   
 
     if menu_sel == 4:   
         print("Thank you, Come again")
